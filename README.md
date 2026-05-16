@@ -41,6 +41,7 @@ The algorithm successfully proved that optimal synergies are not always about pu
 * **aespa Karina (에스파 카리나) ➡️ Lee Young-ji (이영지)** (78 Co-occurrences)
 * **LE SSERAFIM Kim Chae-won (르세라핌 김채원) ➡️ Patricia (파트리샤)** (136 Co-occurrences)
 
+<img width="1270" height="591" alt="image" src="https://github.com/user-attachments/assets/3eb22450-46e2-41cc-8dc7-8cf275e83083" />
 <img width="1253" height="592" alt="image" src="https://github.com/user-attachments/assets/27be18c5-e659-49ea-a010-88e4e889c849" />
 <img width="1269" height="584" alt="image" src="https://github.com/user-attachments/assets/8640bf36-85e5-486f-b6b7-4a14bce96ebb" />
 
