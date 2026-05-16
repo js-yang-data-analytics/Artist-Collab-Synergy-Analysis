@@ -46,11 +46,19 @@ The algorithm successfully proved that optimal synergies are not always about pu
 <img width="1269" height="584" alt="image" src="https://github.com/user-attachments/assets/8640bf36-85e5-486f-b6b7-4a14bce96ebb" />
 
 
-## 4. Limitations & Future Work
+## 4. Limitations & Lessons Learned
 
-To further refine this algorithm for actual enterprise use, the following improvements are planned:
-* **Entity Resolution:** Implement logic to distinguish homonyms (동명이인) in text data.
-* **Data Source Expansion:** Expand the data pipeline from Naver (News/Blogs) to YouTube comments for more dynamic global fandom reactions.
+### Business Limitations
+* **Cost Variables:** The current algorithm does not factor in the actual casting cost (budget constraints) of different artists.
+* **Post-Campaign Verification:** The project lacks a causal impact analysis to verify the actual advertising ROI after a recommended collaboration takes place.
+
+### Significance & Lessons Learned
+Despite these business limitations, the greatest takeaway from this project is the experience of establishing a strong foundation for **Data-driven Problem Solving**. 
+
+* **Defining the Problem:** I successfully translated a vague, intuition-based business problem into a clearly defined analytical task.
+* **Logical Pipeline Design:** By systematically designing and implementing a step-by-step approach (Data Collection ➡️ Sentiment Classification ➡️ NLP Morpheme Analysis) in Python, I was able to validate the initial hypothesis.
+* **Core Insight:** This end-to-end process taught me that data science is not just about building complex models, but understanding *why* each analytical step is necessary and *how* the data connects to solving the actual core problem.
+
 
 ## 5. Tech Stack
 
